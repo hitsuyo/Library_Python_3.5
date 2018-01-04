@@ -1,0 +1,3 @@
+
+[XLSX]
+XlsxWriter >= 0.3
